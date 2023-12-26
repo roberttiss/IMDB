@@ -104,6 +104,7 @@ public class Controller {
         Diretor diretor = new Diretor(nomeDiretor, idadeDiretor, nacionalidadeDiretor);
         listDiretores.add(diretor);
         return diretor;
+
     }
 
     private void buscarFilme(){
