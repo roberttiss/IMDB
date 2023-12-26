@@ -30,6 +30,34 @@ Para usar o sistema, execute o método `menu()`. Em seguida, digite o número co
 
 O sistema depende da biblioteca `java.util.Scanner` para entrada de dados.
 
+## Compilar e Executar
+
+Se você deseja compilar e executar o programa, siga os passos abaixo.
+
+### Passo 1: Abra o Terminal ou Prompt de Comando
+
+Após clonar o repositório, abra o terminal no Linux ou macOS, ou o prompt de comando no Windows.
+
+### Passo 2: Navegue até o Diretório do seu Arquivo Java
+
+Use o comando `cd` para navegar até o diretório onde seu arquivo Main.java está localizado. Por exemplo:
+
+```bash
+cd caminho/do/projeto
+```
+
+### Passo 3: Compile o Código Java
+
+```bash
+javac Main.java
+```
+
+### Passo 4: Execute o Programa Java
+
+```bash
+java Main
+```
+
 ## Contribuições
 
 Contribuições são bem-vindas. Por favor, abra uma issue ou pull request para sugestões de melhorias.
