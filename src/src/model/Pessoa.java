@@ -11,4 +11,16 @@ public class Pessoa {
         this.idade = idade;
         this.nacionalidade = nacionalidade;
     }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public int getIdade() {
+        return idade;
+    }
+
+    public String getNacionalidade() {
+        return nacionalidade;
+    }
 }
