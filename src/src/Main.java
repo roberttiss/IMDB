@@ -1,9 +1,8 @@
-import controller.Controller;
+import view.Sistema;
 
 public class Main {
     public static void main(String[] args) {
-        Controller controller = new Controller();
-
-        controller.menu();
+        Sistema sistema = new Sistema();
+        sistema.menu();
     }
 }
